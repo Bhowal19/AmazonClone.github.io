@@ -1,2 +1,3 @@
 # EcoMarket.github.io
-Developed a front-end website by cloning the Amazon E-commerce Website
+An E-commerce Website under development.
+Stay Tuned!!
